@@ -12,6 +12,6 @@
 
 <h2 align="center">👇 Contact with me</h2>
 
-<p align="center"><a>Instagram: </a><a href="https://www.instagram.com/ryxx/">@ryxx</a></p>
-<p align="center"><a>TikTok: </a><a href="https://www.tiktok.com/@e6ee">@e6ee</a></p>
-<p align="center"><a>Discord: </a><a href="https://discord.com/users/993972700143947826/">Ryxx#4317</a></p>
+<p align="center"><a>Instagram: </a><a href="https://www.instagram.com/ryxx/" target="_blank">@ryxx</a></p>
+<p align="center"><a>TikTok: </a><a href="https://www.tiktok.com/@e6ee" target="_blank">@e6ee</a></p>
+<p align="center"><a>Discord: </a><a href="https://discord.com/users/993972700143947826/" target="_blank">Ryxx#4317</a></p>
